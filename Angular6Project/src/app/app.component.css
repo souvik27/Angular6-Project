@@ -1,0 +1,12 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    
+    margin: 0 auto;
+    background: #A0C5E8;
+    padding: 10px 0;
+  }
+
+  .container{
+      display: inline;
+  }
